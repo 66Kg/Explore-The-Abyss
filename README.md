@@ -1,2 +1,3 @@
 # Explore-The-Abyss
-You have to be so brave to do it
+This is my graduation project!
+It's simple
